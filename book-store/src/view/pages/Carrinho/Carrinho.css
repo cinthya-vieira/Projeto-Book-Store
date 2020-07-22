@@ -1,0 +1,16 @@
+div.pedidos{
+    display: inline-grid;
+    width: 900px;
+}
+
+div.carrinho {
+    float: right;
+    display: inline-grid;
+    width: 350px;
+}
+
+img {
+    margin: 35px;
+    width: 200px;
+    height: 300px;
+}
